@@ -1,0 +1,45 @@
+.shopping{
+  background-color: purple;
+  text-align: center;
+  font-size: 50px;
+}
+
+
+.accessories{
+  font-size: 30px;
+  text-align:  center;
+  border: solid black;
+  background-color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+}
+
+.skateboards{
+  font-size: 30px;
+  text-align: center;
+  border: solid black;
+  background-color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 5%;
+}
+
+.clothing{
+  font-size: 30px;
+  text-align: center;
+  border: solid black;
+  background-color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+body{
+  background-image: url('https://images.unsplash.com/photo-1532522593358-9e5e2a22f231?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1465&q=80'); 
+  background-size: cover;
+}
+
+ul{
+  border: soid black;
+  background-color: white;
+}
